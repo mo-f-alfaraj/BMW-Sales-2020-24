@@ -3,7 +3,7 @@ A Power BI dashboard that visualizes BMW's global sales performance from 2020 to
 
 📊 Dashboard Preview
 Overview Page:
-(BMW%20Overv
+(BMW%20Overview.png)
 (BMW%20Overview.png)
 BMW%20Overview
 Details Page:
