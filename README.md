@@ -1,12 +1,12 @@
-🚗 BMW Sales Dashboard (2020–2024)
+**🚗 BMW Sales Dashboard (2020–2024)**
 A Power BI dashboard that visualizes BMW's global sales performance from 2020 to 2024, covering sales regions, volume trends, and car models & types.
-
 
 📊 Dashboard Preview
 Overview Page:
+(BMW%20Overview.png)
 BMW%20Overview
 Details Page:
-![Overview](BMW%20Overview.png) | ![Details](BMW%20Details.png) |
+(BMW%20Details.png)
 
 📁 Project Files
 File | Description
