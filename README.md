@@ -3,6 +3,7 @@ A Power BI dashboard that visualizes BMW's global sales performance from 2020 to
 
 📊 Dashboard Preview
 Overview Page:
+(BMW%20Overv
 (BMW%20Overview.png)
 BMW%20Overview
 Details Page:
@@ -10,11 +11,11 @@ Details Page:
 
 📁 Project Files
 File | Description
-`BMW Dashboard.pbix` | Main Power BI dashboard file 
-`BMW sales data (2010-2024).csv` | Raw dataset containing BMW sales records
-`bmwTheme.json` | Custom BMW-branded Power BI theme
-`BMW Overview.png` | Screenshot – Overview page
-`BMW Details.png` | Screenshot – Details page
+- `BMW Dashboard.pbix` | Main Power BI dashboard file 
+- `BMW sales data (2010-2024).csv` | Raw dataset containing BMW sales records
+- `bmwTheme.json` | Custom BMW-branded Power BI theme
+- `BMW Overview.png` | Screenshot – Overview page
+- `BMW Details.png` | Screenshot – Details page
 
 📌 Key Insights Covered
 - 📈 **Sales Volume Trends** – Year-over-year performance from 2020 to 2024
