@@ -3,11 +3,10 @@ A Power BI dashboard that visualizes BMW's global sales performance from 2020 to
 
 📊 Dashboard Preview
 Overview Page:
-(BMW%20Overview.png)
-(BMW%20Overview.png)
-BMW%20Overview
+![Overview](BMW%20Overview.png)
+
 Details Page:
-(BMW%20Details.png)
+![Details](BMW%20Details.png)
 
 📁 Project Files
 File | Description
@@ -35,7 +34,7 @@ File | Description
 > **Note:** The dataset (`BMW sales data (2010-2024).csv`) is included in the repo. No additional data connection is required.
 
 📂 Data Source
-The dataset covers BMW global sales from 2010 to 2024 and includes fields such as year, region, model, car type, and units sold [Kaggle.com].
+The dataset covers BMW global sales from 2010 to 2024 and includes fields such as year, region, model, car type, and units sold [](Kaggle.com).
 
 
 👤 Author
